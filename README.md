@@ -1,56 +1,10 @@
-# Hi, I'm Tukai 
+I’m a software engineer with a strong logical mindset and a passion for building scalable, real-world solutions that simplify everyday life.
 
-Frontend Developer focused on React, JavaScript, TypeScript, and the MERN Stack.
+My focus is on backend engineering, system design, and creating maintainable applications with clean architecture and efficient workflows. I enjoy solving complex problems, improving developer experience, and continuously exploring new technologies and better engineering practices.
 
-I build scalable frontend applications, admin dashboards, authentication systems, and modern ecommerce platforms.
+With years of hands-on coding experience, I value code quality, adaptability, and building products that are both practical and impactful.
 
----
 
-## 🚀 Tech Stack
-
-### Frontend
-- React.js
-- JavaScript
-- TypeScript
-- Tailwind CSS
-- Material UI
-- Redux Toolkit
-
-### Backend
-- Node.js
-- Express.js
-- MongoDB
-- JWT Authentication
-
-### Tools
-- Git & GitHub
-- Vercel
-- Render
-- Postman
-
----
-
-## 📌 Featured Projects
-
-### Ecommerce Admin Dashboard
-Modern admin dashboard featuring:
-- Authentication
-- Product Management
-- Category Management
-- Dashboard Analytics
-
-### Authentication System
-Complete MERN authentication system with:
-- JWT Authentication
-- OTP Verification
-- Password Reset
-
-### Productivity Mobile App
-React Native + Expo productivity application.
-
----
-
-## 📫 Contact
 
 - Email: tukaighosh753@gmail.com
 - LinkedIn: [Tukai Ghosh](https://www.linkedin.com/in/tukaighosh753)
