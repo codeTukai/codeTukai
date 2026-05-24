@@ -29,7 +29,6 @@ My focus lies in backend engineering, system design, and creating maintainable a
 
 🔗 Portfolio Website:  
 https://my-portfolio-phi-nine-37.vercel.app
-
 ---
 
 ## 📂 Featured Projects
