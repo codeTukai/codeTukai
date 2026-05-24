@@ -29,18 +29,7 @@ My focus lies in backend engineering, system design, and creating maintainable a
 
 🔗 Portfolio Website:  
 https://my-portfolio-phi-nine-37.vercel.app
----
 
-## 📂 Featured Projects
-
-### 🛒 Ecommerce Admin Dashboard --Link:- https://admin-repo-olive.vercel.app
-Modern admin dashboard with authentication, product management, analytics, and responsive UI.
-
-### 🔐 Authentication System
-Full authentication system with secure login, OTP verification, and password recovery workflows.
-
-### 📱 Productivity Mobile App
-Mobile productivity application focused on clean UI and seamless user experience.
 ---
 
 ## 📈 Current Focus
