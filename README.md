@@ -1,4 +1,4 @@
-# Hi, I'm Tukai 👋
+# Hi, I'm Tukai 
 
 Frontend Developer focused on React, JavaScript, TypeScript, and the MERN Stack.
 
