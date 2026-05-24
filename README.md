@@ -42,18 +42,6 @@ Full authentication system with secure login, OTP verification, and password rec
 
 ### 📱 Productivity Mobile App
 Mobile productivity application focused on clean UI and seamless user experience.
-
----
-
-## ⚡ What I Enjoy Building
-
-- Scalable Web Applications
-- Backend Systems & APIs
-- Developer Tools
-- Dashboards & Management Systems
-- Mobile Applications
-- Real-world Productivity Solutions
-
 ---
 
 ## 📈 Current Focus
