@@ -15,37 +15,6 @@ I specialize in both frontend and backend development, with experience creating 
 -  Continuously learning modern frameworks, DevOps, and system design
 -  Passionate about creating products that simplify and improve everyday life
 
----
-
-# 🛠️ Tech Stack
-
-## Frontend
-- React.js
-- TypeScript
-- JavaScript (ES6+)
-- Tailwind CSS
-- Material UI
-- HTML5
-- CSS3
-
-## Backend
-- Node.js
-- Express.js
-- MongoDB
-- REST APIs
-- Authentication & Authorization
-- JWT & Cookies
-
-## Tools & Technologies
-- Git & GitHub
-- Vercel
-- Cloudinary
-- Postman
-- VS Code
-- npm
-
----
-
 # 📈 Experience
 
 - ✅ 2+ years of project building experience
