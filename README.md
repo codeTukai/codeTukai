@@ -6,17 +6,17 @@ My focus lies in backend engineering, system design, and creating maintainable a
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-- 💻 Software Engineer with strong logical and problem-solving skills
-- ⚙️ Interested in Backend Development 
-- 🌱 Continuously learning scalable architecture and modern development workflows
-- 🛠 Focused on clean code, maintainability, and real-world solutions
-- 📚 Passionate about building products that simplify everyday life
+-  Software Engineer with strong logical and problem-solving skills
+-  Interested in Backend Development 
+-  Continuously learning scalable architecture and modern development workflows
+-  Focused on clean code, maintainability, and real-world solutions
+-  Passionate about building products that simplify everyday life
 
 ---
 
-## 🧠 Experience
+##  Experience
 
 - 2+ years of project building experience
 - 4+ years of coding experience
