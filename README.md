@@ -56,58 +56,20 @@ I specialize in both frontend and backend development, with experience creating 
 
 ---
 
-# 📌 Current Focus
-
-- Frontend Engineering
-- Backend Development
-- Full Stack Applications
-- DevOps & Deployment
-- System Design
-- Performance Optimization
-
----
-
-# 📫 Connect With Me
-
-- GitHub: [@codeTukai](https://github.com/codeTukai)
-- Email: tukaighosh753@gmail.com
-
----
-
-# ✨ Philosophy
-
-> Build scalable, maintainable, and user-focused solutions that create real impact.
-
----
-
-# 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codeTukai&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codeTukai&layout=compact&theme=tokyonight)
-
----
-
-# ⚡ Fun Fact
-
-I enjoy solving complex problems, learning modern technologies, and building products that make everyday life easier.
-
 ## 🌐 Portfolio
 
 🔗 Portfolio Website:  
 https://my-portfolio-phi-nine-37.vercel.app
 
 ---
+# 📌 Current Focus
 
-## 📈 Current Focus
-
-- Backend Engineering
+- Frontend Engineering
+- Backend Development
+- Full Stack Applications
 - DevOps & Deployment
-- System Design
-- Scalable Architecture
 - Performance Optimization
 
----
 
 ## 📫 Connect With Me
 
