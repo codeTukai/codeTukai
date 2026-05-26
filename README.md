@@ -45,7 +45,6 @@ https://my-portfolio-phi-nine-37.vercel.app
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/codeTukai
-- Portfolio: https://my-portfolio-phi-nine-37.vercel.app
 - Email: tukaighosh753@gmail.com
 
 ---
