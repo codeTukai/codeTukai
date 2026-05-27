@@ -1,6 +1,6 @@
-## Software Engineer | Frontend & Backend Developer
+## FullStack Developer | Frontend with Backend Developer
 
-I’m a passionate software engineer focused on building scalable, modern, and user-centric digital products that solve real-world problems.
+I’m a passionate frontend engineer focused on building scalable, modern, and user-centric digital products that solve real-world problems.
 
 I specialize in both frontend and backend development, with experience creating responsive user interfaces, scalable APIs, authentication systems, admin dashboards, and full-stack web applications. I enjoy transforming ideas into efficient and maintainable products while continuously learning modern technologies and engineering practices.
 
