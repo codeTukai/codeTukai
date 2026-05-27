@@ -6,7 +6,7 @@ I specialize in both frontend and backend development, with experience creating 
 
 ---
 
-# 🚀 About Me
+#  About Me
 
 -  Software Engineer with strong logical and problem-solving skills
 -  Passionate about Frontend Development, Backend Engineering, and Full Stack Applications
@@ -15,7 +15,7 @@ I specialize in both frontend and backend development, with experience creating 
 -  Continuously learning modern frameworks, DevOps, and system design
 -  Passionate about creating products that simplify and improve everyday life
 
-# 📈 Experience
+#  Experience
 
 - ✅ 2+ years of project building experience
 - ✅ 4+ years of coding experience
