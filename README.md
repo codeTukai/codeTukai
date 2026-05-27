@@ -31,7 +31,7 @@ I specialize in both frontend and backend development, with experience creating 
 https://my-portfolio-phi-nine-37.vercel.app
 
 ---
-# 📌 Current Focus
+#  Current Focus
 
 - Frontend Engineering
 - Backend Development
