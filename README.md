@@ -42,15 +42,20 @@ I specialize in frontend development, backend engineering, and API integration, 
 
 # Portfolio
 
-Portfolio Website:
-my-portfolio-phi-nine-37.vercel.app
+# Portfolio
+
+🌐 Portfolio Website:
+https://my-portfolio-phi-nine-37.vercel.app
 
 ---
 
 # Connect With Me
 
-GitHub:
-github.com/codeTukai
+🔗 LinkedIn:
+https://www.linkedin.com
+
+💻 GitHub:
+https://github.com/codeTukai
 
 Email:
 [tukaighosh753@gmail.com](mailto:tukaighosh753@gmail.com)
