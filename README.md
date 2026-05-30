@@ -1,67 +1,97 @@
-# Frontend Developer | Backend Developer | API Integration Specialist
+# Frontend Developer | React Developer | Aspiring Full-Stack Engineer
 
-I’m a passionate developer focused on building scalable, modern, and user-centric digital products that solve real-world problems.
+I'm a passionate Frontend Developer focused on building modern, responsive, and user-centric web applications that deliver exceptional user experiences.
 
-I specialize in frontend development, backend engineering, and API integration, with experience creating responsive user interfaces, scalable APIs, authentication systems, admin dashboards, and complete full-stack web applications. I enjoy transforming ideas into efficient and maintainable products while continuously learning modern technologies and engineering practices.
-
----
-
-# About Me
-
-* Frontend Developer with strong logical and problem-solving skills
-* Skilled in Backend Development and API Integration
-* Passionate about building responsive and modern user interfaces
-* Focused on clean code, scalable architecture, and maintainable systems
-* Experienced in working with REST APIs, authentication systems, and state management
-* Interested in DevOps, deployment workflows, and performance optimization
-* Passionate about creating products that simplify and improve everyday life
+My expertise lies in creating dynamic interfaces using React, JavaScript, TypeScript, and modern frontend technologies. Alongside frontend development, I am actively expanding my backend engineering skills through Node.js, Express.js, MongoDB, and API development to become a well-rounded Full-Stack Engineer.
 
 ---
 
-# Experience
+##  About Me
 
-* ✅ 2+ years of hands-on project development experience
-* ✅ 4+ years of coding and programming experience
-* ✅ Built full-stack applications, admin dashboards, and authentication systems
-* ✅ Developed responsive frontend applications with modern UI/UX
-* ✅ Worked extensively on API integration and backend connectivity
-* ✅ Experience with deployment workflows and scalable web applications
+* Frontend Developer with strong problem-solving and analytical skills
+* Passionate about building responsive and accessible user interfaces
+* Experienced in React, JavaScript, TypeScript, HTML, and CSS
+* Skilled in API integration and state management
+* Focused on writing clean, maintainable, and scalable code
+* Continuously learning backend development and system design
+* Interested in modern web technologies, DevOps, and performance optimization
 
 ---
 
-# Current Focus
+##  Experience
 
-* Frontend Development
+*  2+ years of hands-on project development experience
+*  4+ years of programming and software development experience
+*  Built responsive web applications using React and modern frontend technologies
+*  Developed complete authentication systems and admin dashboards
+*  Integrated REST APIs and backend services into production-ready applications
+*  Experience deploying applications and managing development workflows
+
+---
+
+##  Tech Stack
+
+### Frontend
+
+* React.js
+* JavaScript (ES6+)
+* TypeScript
+* HTML5
+* CSS3
+* Tailwind CSS
+* Material UI
+* React Router
+
+### Backend (Learning & Building)
+
+* Node.js
+* Express.js
+* MongoDB
+* REST APIs
+* JWT Authentication
+
+### Tools & Platforms
+
+* Git
+* GitHub
+* Vercel
+* Postman
+* VS Code
+
+---
+
+## 🎯 Current Focus
+
+* Advanced React Development
+* TypeScript
+* Frontend Architecture
 * Backend Development
-* API Integration
-* Full Stack Applications
+* API Design & Integration
+* Full-Stack Applications
 * DevOps & Deployment
-* Performance Optimization
 
 ---
 
-# Portfolio
+## 🌐 Portfolio
 
-# Portfolio
-
-🌐 Portfolio Website:
+Portfolio Website:
 https://my-portfolio-phi-nine-37.vercel.app
 
 ---
 
-# Connect With Me
+##  Connect With Me
 
-🔗 LinkedIn:
-https://www.linkedin.com
-
-💻 GitHub:
+GitHub:
 https://github.com/codeTukai
+
+LinkedIn:
+https://www.linkedin.com/in/your-linkedin-profile
 
 Email:
 [tukaighosh753@gmail.com](mailto:tukaighosh753@gmail.com)
 
 ---
 
-# Philosophy
+## 💡 Philosophy
 
-> Build scalable, maintainable, and user-focused digital solutions.
+> Building modern, scalable, and user-focused digital experiences through clean code and continuous learning.
