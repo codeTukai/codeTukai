@@ -29,37 +29,6 @@ My expertise lies in creating dynamic interfaces using React, JavaScript, TypeSc
 
 ---
 
-##  Tech Stack
-
-### Frontend
-
-* React.js
-* JavaScript (ES6+)
-* TypeScript
-* HTML5
-* CSS3
-* Tailwind CSS
-* Material UI
-* React Router
-
-### Backend (Learning & Building)
-
-* Node.js
-* Express.js
-* MongoDB
-* REST APIs
-* JWT Authentication
-
-### Tools & Platforms
-
-* Git
-* GitHub
-* Vercel
-* Postman
-* VS Code
-
----
-
 ## 🎯 Current Focus
 
 * Advanced React Development
