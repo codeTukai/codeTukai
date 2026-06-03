@@ -18,14 +18,11 @@ My expertise lies in creating dynamic interfaces using React, JavaScript, TypeSc
 
 ---
 
-##  Experience
-
-*  2+ years of hands-on project development experience
-*  4+ years of programming and software development experience
-*  Built responsive web applications using React and modern frontend technologies
-*  Developed complete authentication systems and admin dashboards
-*  Integrated REST APIs and backend services into production-ready applications
-*  Experience deploying applications and managing development workflows
+3+ years of programming experience and 2+ years of hands-on project development.
+Built responsive web applications using React.js, JavaScript, Tailwind CSS, and Material UI.
+Developed full-stack applications with authentication systems, admin dashboards, and REST API integration.
+Worked with Node.js, Express.js, MongoDB, Redux, Zustand, and cloud services like Cloudinary.
+Experienced in Git-based development workflows, deployment, and performance-focused application development.
 
 ---
 
