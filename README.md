@@ -40,8 +40,7 @@ Experienced in Git-based development workflows, deployment, and performance-focu
 
 ## 🌐 Portfolio
 
-Portfolio Website:
-https://my-portfolio-phi-nine-37.vercel.app
+[Visit My Portfolio](https://my-portfolio-phi-nine-37.vercel.app)
 
 ---
 
