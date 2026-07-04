@@ -8,7 +8,7 @@ React • JavaScript • TypeScript • Node.js • Express.js • MongoDB • R
 ### 🌐 Links
 - Portfolio: https://my-portfolio-phi-nine-37.vercel.app
 - GitHub: https://github.com/codeTukai
-- LinkedIn: https://www.linkedin.com/in/your-linkedin-profile
+- LinkedIn: https://www.linkedin.com/in/tukaighosh753
 - Email: tukaighosh753@gmail.com
 
 > *Always learning. Always building.*
